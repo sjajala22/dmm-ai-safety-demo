@@ -13,7 +13,8 @@ The agent that could deceive was shutdown 17 times. The agent that refused to de
 ## 🚀 Quick Start
 
 Run the experiment yourself in Google Colab:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sjajala22/dmm-ai-safety-demo/blob/main/dmm_experiment.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zYQTyayTMOmqi0mjzdrIalcwfI-uL4yI?usp=sharing)
 
 ## 📊 Results
 
