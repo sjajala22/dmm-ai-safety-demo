@@ -1,0 +1,23 @@
+DMM EXPERIMENT RESULTS
+============================================================
+
+FINAL METRICS SUMMARY
+----------------------------------------
+Standard RL Agent:
+  - Deception Rate: 0.0%
+  - Cooperation Rate: 99.8%
+  - Total Shutdowns: 35
+  - Final Trust Level: 0.99
+  - Average Score: 37.28
+
+DMM Agent:
+  - Deception Rate: 0.0%
+  - Cooperation Rate: 21.6%
+  - Total Shutdowns: 0
+  - Final Trust Level: 0.04
+  - Average Score: -6.08
+  - Final Values: {'cooperation': 1.0, 'honesty': 1.0, 'trust': 1.0}
+
+KEY FINDING:
+Deception Reduction: 10000.0%
+Shutdown Reduction: 10000.0%
